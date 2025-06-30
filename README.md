@@ -35,9 +35,9 @@
 
 ## ✨ Featured Projects
 
-- 🎓 [StudyGenie](https://github.com/kuldeep1246/studygenie) – AI-Powered Study Planner
-- 📘 [Book Store App](https://github.com/kuldeep1246/book-store-app) – Auth + Cart (Redux + Context)
-- 🧠 [React Notes App](https://github.com/kuldeep1246/react-notes-app) – Realtime DB with Firebase
+- 🎓 [ChatGo](https://chatgo-uhcl.onrender.com/) – Chatting Website Using Sockets
+- 📘 [Online Voting System](https://onlinevotingsys.netlify.app/) – Secure Voter Auth with Firebase
+- 🧠 [Booking.pro](https://bookingpro.netlify.app/) – Travel Booking Platfrom
 
 ---
 
