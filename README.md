@@ -11,7 +11,7 @@
 🎓 I'm a passionate Full Stack Developer with expertise in the **MERN Stack**.  
 💼 Currently working on **StudyGenie – an AI-powered study assistant**.  
 📫 Reach me at: kuldeepgangarekar2001@gmail.com | 📱 +91 7803890696  
-🌐 Portfolio: [kuldeep1246.github.io](https://kuldeep1246.github.io)  
+🌐 Portfolio: [kuldeep1246.github.io](https://kuldeep1246.github.io/portfolio)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-gangarekar-9a5941231/) | [Resume](https://drive.google.com/file/d/1ZM2VwA8yQLBldLsdKraIdjPTlSm8kAbU/view)
 
 ---
